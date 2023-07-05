@@ -1,5 +1,10 @@
 div{
     background-color: tomato;
     padding: 10px;
-    border: 50px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
 }
